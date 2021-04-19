@@ -139,3 +139,13 @@ table {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+/* Common Styles for whole project */
+
+.grid {
+  display: grid;
+}
+
+.flex {
+  display: flex;
+}
