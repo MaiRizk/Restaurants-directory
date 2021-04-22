@@ -509,8 +509,8 @@ footer {
   /* Style main search section for desktop */
 
   .main-search {
-    height: calc(65vh - 120px);
-    max-width: 100vw;
+    height: calc(70vh - 120px);
+        max-width: 100vw;
     background-image: url(/images/desktop-bg.jpg);
     background-repeat: no-repeat no-repeat;
     background-size: 100% 100%;
