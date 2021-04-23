@@ -168,6 +168,11 @@ header {
   background-color: #d35649;
 }
 
+header a {
+  color: white;
+  text-decoration: none;
+}
+
 .logo {
   display: block;
 }
@@ -295,7 +300,6 @@ header span {
 /* Style how it works section */
 
 .how-it-works {
-  height: 100vh;
   margin: 12px;
 }
 
@@ -343,7 +347,6 @@ header span {
 }
 
 .third-row img {
-  margin-bottom: 0;
   border-radius: 15px 15px 0 0;
 }
 
