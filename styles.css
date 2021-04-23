@@ -239,7 +239,7 @@ header span {
   width: 90%;
 }
 
-.centered h2 {
+.centered h1 {
   color: white;
   font-size: 25px;
   text-align: center;
@@ -515,7 +515,7 @@ footer {
     height: 80%;
   }
 
-  .centered h2 {
+  .centered h1 {
     font-size: 28px;
   }
 
