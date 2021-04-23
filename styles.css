@@ -856,21 +856,19 @@ footer {
   }
 
   .filters-buttons {
-    display: grid;
-    grid-template-columns: 3fr 1fr;
-    grid-gap: 10px;
-    width: 60%;
-    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
   }
 
   .filter-options {
     display: flex;
-    width: 100%;
-    justify-content: space-around;
+    margin-right: 5px;
   }
 
   .filter-option {
     display: flex;
+    padding-left: 5px;
   }
 
   .buttons {
