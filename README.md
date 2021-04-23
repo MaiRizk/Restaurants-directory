@@ -2,7 +2,7 @@
 
 # Tackle-thirst
 
-This project is designed to help tackle thirst in Kenya by donating and contributing in different places
+This project is designed to help tackle thirst in Kenya by donating and contributing to different places
 
 ![screenshot](./Screenshots/landing-mobile.png)
 ![screenshot](./Screenshots/search-mobile.png)
@@ -35,10 +35,10 @@ This project is designed to help tackle thirst in Kenya by donating and contribu
 This project contains 3 different screens that resize responsively to different screen sizes;
 1- The home page that has the basic information about the project and also has the search engine
 2- The search page that shows different places when you search
-3- The place or area page what has the information about the place found.
-Only one place area is desinged and linked to all the places.
-This is a static project that built to practice HTML & CSS best parctices.
-The project original desing was created by Mathew Njuguna & Sam Achola.
+3- The place or area page that has the information about the place found.
+Only one place area is designed and linked to all the places.
+This is a static project built to practice HTML & CSS best practices.
+The project's original design was created by Mathew Njuguna & Sam Achola.
 
 
 ## Authors
